@@ -1,1 +1,13 @@
-/* your styles go here */
+#header {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	height: 100%;
+	background: url('../img/home.jpg') center center no-repeat;
+	background-size: cover;
+}
+
+img {
+
+} 

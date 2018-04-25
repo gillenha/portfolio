@@ -4,12 +4,11 @@
  * configure here
  */
 $from = 'IT WORKER <it@domain.com>';
-$sendTo = 'IT WORKER <it@domain.com>';
-$subject = 'New message from contact form';
+$sendTo = '<gillen08@gmail.com>';
+$subject = 'New message from HarryGillen.com';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message');
-$htmlHeader = '';
-$htmlFooter = '';
 $okMessage = 'Contact form succesfully submitted. Thank you, I will get back to you soon!';
+$errorMessage = 'There was an error made while submitting this form, please try again';
 
 $htmlContent = '<h1>New message from contact form</h1>';
 

@@ -169,12 +169,12 @@ INTRO
 */
 
 
-#intro .item {
+/*#intro .item {
   height: 100%;
   background: url('../img/home.jpg') center center no-repeat;
   background-size: cover;
 }
-
+*/
 /*
 #intro .item h1 {
   font-size: 60px;
@@ -307,7 +307,7 @@ WORKS / REFERENCES
   text-decoration: none;
 }
 #references-masonry {
-  margin: 0 15px;
+  margin: 0 auto;
   visibility: hidden;
 }
 @media (max-width: 991px) {
